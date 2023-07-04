@@ -10,7 +10,6 @@ A área de odontologia requer como qualquer outra área da saúde, segurança ao
 
 * Gabriel de Souza
 * Gabriel Lima de Souza
-* Lucas Picinin Campos Lutti
 * Nikolas Augusto Vieira Louret
 
 ## Professores responsáveis
